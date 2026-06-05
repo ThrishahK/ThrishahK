@@ -1,12 +1,14 @@
 <h1 align="center">Hi there, I'm Thrisha K 👋</h1>
 
 ---
-
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE | 3rd Year   
-- 💡 Exploring: JDBC, MyBaits, React, PostgreSQL, MySQL, DSA (Java)  
-- 🎯 Goals: Internship + Placement Prep  
-- 🌱 Always learning something new!
+👩‍💻 Computer Science Engineering Student | 2027 Graduate
+🎓 B.Tech CSE @ NMAM Institute of Technology (CGPA: 9.56)
+💻 Skilled in Java, Python, SQL, React, FastAPI, and MySQL
+🚀 Built AI-powered and full-stack projects including InterviewIQ and Hotel Management System
+📚 Currently learning Spring Boot, PostgreSQL, System Design, and DSA
+🎯 Seeking Software Development Internship and Placement Opportunities  
+🌱 Always learning something new!
 
 ---
 
