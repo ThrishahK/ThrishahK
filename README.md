@@ -24,8 +24,11 @@ Modules Loaded
 
 Currently Learning
 
-• System Design
-• Data Structures & Algorithms
+- Scalable Backend Systems
+- AI Application Development
+- PostgreSQL
+- System Design
+- Data Structures & Algorithms
 
 Mission
 
